@@ -3,11 +3,12 @@
 This Github account is all about storing code exercises that I've worked on as part of HyperionDev's Software Engineering Bootcamp. 
 
 ## About Me
-- 🔭 I’m currently working on **HyperionDev's Software Engineer Bootcamp**
+- 🔭 I currently work in **Deloitte's AI & Data practice** in London, UK
+- 🔭 I’ve worked on **HyperionDev's Software Engineer Bootcamp**
 - 🌱 I’m currently learning **Python**
 - 👯 I’m looking to collaborate **new startup ideas**
 - 🤔 I’m looking for help with **full-stack development and implementation of AI/ML**
-- 💬 Ask me about **management consulting, data strategy, data governance, data management, and data modelling**
+- 💬 Ask me about **technology consulting, AI strategy, AI governance, data strategy, data governance and data management**
 - 📫 How to reach me: [**on LinkedIn**](linkedin.com/in/mohammedeljarad)
 - 😄 Languages: **English, Arabic**
 
